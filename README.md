@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o José Alonso
+# Olá! Eu sou o José Alonso
 
 Seja bem-vindo ao meu GitHub!
 
@@ -6,6 +6,4 @@ Sou desenvolvedor back-end com formação em Análise e Desenvolvimento de Siste
 
 🎯 Atualmente trabalhando com Java, Spring Boot e Quarkus   
 
-## ✉️ Contato
-
-[LinkedIn](https://www.linkedin.com/in/alonso-je/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-je/)
