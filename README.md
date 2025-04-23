@@ -1,4 +1,6 @@
-# Olá! Eu sou o José Alonso
+# José Alonso
+
+**`Backend Software Engineer`**
 
 Seja bem-vindo ao meu GitHub!
 
@@ -7,3 +9,103 @@ Sou desenvolvedor back-end com formação em Análise e Desenvolvimento de Siste
 🎯 Atualmente trabalhando com Java, Spring Boot e Quarkus   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-je/)
+
+---          
+
+### Tecnologias 
+
+### Tecnologias
+
+<p align="left">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" 
+    alt="Quarkus" 
+    title="Quarkus"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" 
+    alt="RabbitMQ" 
+    title="RabbitMQ"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;" 
+  />
+</p>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=AlonsoJE&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoJE&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
