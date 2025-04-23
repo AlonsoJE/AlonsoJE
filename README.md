@@ -83,19 +83,15 @@ Sou desenvolvedor back-end com formação em Análise e Desenvolvimento de Siste
 
 ---
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="170px" 
     src="https://github-readme-stats.vercel.app/api?username=AlonsoJE&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoJE&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="170px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoJE&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
